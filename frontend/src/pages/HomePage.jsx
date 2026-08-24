@@ -50,7 +50,7 @@ const Home = () => {
                 <small>Next stop</small>
                 <strong>Bali</strong>
               </div>
-              <span className="price">$899</span>
+              <span className="price">₹10,000</span>
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@ const Home = () => {
             <div className="content">
               <span>France</span>
               <h3>Paris</h3>
-              <p>From $1,240</p>
+              <p>From ₹1,00,240</p>
             </div>
           </article>
 
@@ -104,7 +104,7 @@ const Home = () => {
             <div className="content">
               <span>Indonesia</span>
               <h3>Bali</h3>
-              <p>From $890</p>
+              <p>From ₹80,090</p>
             </div>
           </article>
 
@@ -113,7 +113,7 @@ const Home = () => {
             <div className="content">
               <span>Japan</span>
               <h3>Kyoto</h3>
-              <p>From $1,080</p>
+              <p>From ₹1,00,080</p>
             </div>
           </article>
         </div>
